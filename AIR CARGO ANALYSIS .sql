@@ -155,3 +155,8 @@ SELECT CATEGORY;
 END //
 
 CALL CATEGORIES(1111) ;
+
+
+
+
+https://www.dropbox.com/scl/fi/qaycz5kmm6e1hv16m7xl9/SQL-Air-Cargo-Analysis.pdf?rlkey=8wvrat2k0x268b322c9isb5qu&st=3vjc3jwv&dl=0
